@@ -1,2 +1,2 @@
 # Numpy-Randoms-Prog-DA
-An investigation into the world of numpy and randoms 
+An investigation into numpy and random numbers
